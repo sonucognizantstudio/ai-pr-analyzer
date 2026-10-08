@@ -1,0 +1,22 @@
+# Build artifacts
+/target/
+/.idea/
+/.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local env files
+.env
+.env.*
+
+# Maven
+.mvn/
+
+# Java
+*.class
